@@ -9,3 +9,7 @@ Rotational Speed [rpm]
 Torque [Nm]
 Tool Wear [min]
 The application provides real-time predictions on whether the machine will fail, along with the failure type (e.g., Heat Failure, Power Failure, etc.).
+
+To run:::
+streamlit run app.py
+
